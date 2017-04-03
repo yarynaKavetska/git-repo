@@ -1,3 +1,9 @@
+
 print("hello-world;");
 print("hello-worldвапр;");
 print("hello;");
+print("hello my dear friend;");
+print("glad to see you;");
+
+
+
